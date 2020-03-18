@@ -5,7 +5,7 @@ class Cat
 end
   
   
-maru = Cat.new("Maru")
+maru = Cat.new
 name=maru.name
 
 puts name
