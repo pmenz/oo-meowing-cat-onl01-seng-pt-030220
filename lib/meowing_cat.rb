@@ -6,7 +6,8 @@ end
   
   
 maru = Cat.new
-name=maru.name
+maru.new = "Maru"
+
 
 puts name
 # => "Maru"
