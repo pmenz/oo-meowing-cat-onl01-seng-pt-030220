@@ -17,4 +17,3 @@ maru.name
 
 # => "Maru"
  
-maru.meow
